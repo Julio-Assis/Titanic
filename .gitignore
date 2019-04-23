@@ -1,0 +1,5 @@
+# ignore csv files
+*.csv
+
+# ignore notebook checkpoints
+*.ipynb_checkpoints
